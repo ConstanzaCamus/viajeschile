@@ -30,7 +30,15 @@ body main {
 }
 
 .botn {
-    margin-left: 300px;
+
     background: turquoise;
     display: inline-block;
+}
+
+footer {
+    background-color: turquoise;
+}
+
+footer a {
+    color: white;
 }
