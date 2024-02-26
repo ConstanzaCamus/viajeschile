@@ -3,13 +3,24 @@
 * {
     margin: 0px;
     padding: 0px;
-    font-family: 'Raleway' sans-serif;
+    font-family: "Raleway", sans-serif;
 }
 
+/*navbar*/
 .bg-white {
     background: transparent;
 }
 
 .navbar-brand img {
     height: 34px
+}
+
+/*Sections*/
+body main {
+    background-color: black;
+}
+
+.icono {
+    display: ruby-text;
+    background: turquoise;
 }
