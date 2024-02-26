@@ -28,3 +28,9 @@ body main {
 .card-body {
     background-color: turquoise;
 }
+
+.botn {
+    margin-left: 300px;
+    background: turquoise;
+    display: inline-block;
+}
